@@ -1,3 +1,10 @@
+# Solutions
+
+For the first bug I have to change the method replaceAll() for the method replace() to replace the dot for the slash.
+Another bug is the number in the nextint() method, we need to change the value 2 for a 3. 
+
+
+
 # iebis_swdev_exam_debugging
 Somebody from administration wanted to create a random phrase generators and created the code that you can find in Main.java for this purpose.
 
